@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="1064-yahooforecast-rev3-2015-09-03">
+    <Basepaths>/yahooforecast</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1563353241607</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>yahooForecast</DisplayName>
+    <LastModifiedAt>1563353241607</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:901012a4a9fb3bdfa312d5e7302b71753f72b8c182edf2d94051f7112d14ab8d58abdc9709d98a8631d7e6566b0a7e067d2827ed6fe08c5c6fa39a2c397c15f2</ManifestVersion>
+    <Policies>
+        <Policy>Raise-Fault-1</Policy>
+        <Policy>Raise-Fault-2</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
